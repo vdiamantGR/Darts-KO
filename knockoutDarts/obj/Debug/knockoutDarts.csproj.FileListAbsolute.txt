@@ -1,0 +1,11 @@
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\bin\Debug\knockoutDarts.exe.config
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.csprojResolveAssemblyReference.cache
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.Darts.resources
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.Properties.Resources.resources
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.showPlayer.resources
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.csproj.GenerateResource.Cache
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\bin\Debug\knockoutDarts.exe
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\bin\Debug\knockoutDarts.pdb
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.exe
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.pdb
+c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.StartForm.resources
