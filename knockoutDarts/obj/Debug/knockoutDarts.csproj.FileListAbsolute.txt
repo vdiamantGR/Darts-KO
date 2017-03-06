@@ -9,3 +9,6 @@ c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDa
 c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.exe
 c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.pdb
 c:\users\vdiamant\documents\visual studio 2015\Projects\knockoutDarts\knockoutDarts\obj\Debug\knockoutDarts.StartForm.resources
+C:\Users\vdiamant\Source\Repos\Darts-KO2\knockoutDarts\bin\Debug\knockoutDarts.exe.config
+C:\Users\vdiamant\Source\Repos\Darts-KO2\knockoutDarts\obj\Debug\knockoutDarts.exe
+C:\Users\vdiamant\Source\Repos\Darts-KO2\knockoutDarts\obj\Debug\knockoutDarts.pdb
